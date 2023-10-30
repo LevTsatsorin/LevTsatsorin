@@ -1,10 +1,12 @@
-<div style="positon:relative; top: 0; padding-bottom: 400px"><img align="right" alt="Coding" width="100%" src="assets/banner.png"/></div>
+<div style="positon:relative; top: 0; padding-bottom: 420px"><img align="right" alt="Coding" width="100%" src="assets/banner.png"/></div>
 <br>
 <br>
 
 <div style="color: #8dc7df">
 
 ## 🌌 My Cosmic Code Odyssey 🌠
+
+<div style="font-size:18px; color:#8dc7df;"> 
 
 🌌👩‍🚀 Hello, fellow explorers of the digital universe! ✨ I'm Lev, a passionate coder ⚡ driven by endless curiosity 🛸 and the thrill of innovation 🌠. 
 
@@ -20,9 +22,15 @@ This is the path I've forged in the vast landscape of technology: 🚀🖥️
 
 🚀 **The Voyage Continues**: The vast expanse of the digital universe is ever-expanding, mirroring my own aspirations. As of now, I harness the digital energies as a **Middle+ Front End Developer** at **Refundd LLC**. But my sights are set on the horizons – aiming to master the realms of Full Stack Web Development, ensuring every line of code I craft has a touch of magic and a dash of stardust.
 
+</div>
+
 ## 🪐 Connect & Converse 🪐
 
+<div style="font-size:18px; color:#8dc7df;"> 
+
 Should our stars align, or if you're keen to exchange cosmic insights, don't hesitate to connect!
+
+</div>
 
 [![Email](https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:lev.tsatsorin@gmail.com?subject=GitHub%20Contact)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LevTsatsorin)
@@ -57,9 +65,9 @@ Should our stars align, or if you're keen to exchange cosmic insights, don't hes
 
 
 </div>
-
+<!-- 
 ## 💼 My Code Palette 🎨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevTsatsorin&layout=compact&theme=tokyonight)
 
-</div>
+</div> -->
